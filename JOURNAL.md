@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 5.92h | 6 |
+| Week 2 | Tier 1 | 6.12h | 6 |
 
 ## Contents
 
@@ -67,13 +67,21 @@ I started by expanding my track I had from the previous day, adding more loops a
 
 ### 2026-10-16 – October 16: finished merbl track!
 
-**1.43h**
+**1.63h**
 
 October 16: finished merbl track!
 
 I finished up my merbl track and placed all components in an assembly. I finished it off by positioning everything correctly and adding a small dome to collect the marble at the end of the track.
 
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/WyN6YOeG4UtFVFQxcC7rI7Awh9i5F6xj/76acd58236a547de1ece8fe06ae28c536050d6f0ea784d008fea9898cd5ab4e1.png)
+
 After finishing, I decided to start a new design on Solidworks. This time, I wanted to try making a modular marble track. So I began by creating a base, a support, a straight connector and a curved connector. I will try to add more parts (the actual rail) later and add connections between the parts. I ended off the work session by mating some of the components together in an assembly to see how they fit.
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/WyN6YOeG4UtFVFQxcC7rI7Awh9i5F6xj/8c45b8453a704258b6571dc4b1a729724067958de1a4c7efbc30fd7b40c370d3.png)
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/WyN6YOeG4UtFVFQxcC7rI7Awh9i5F6xj/96d158f557355199677f72b8f03ddca9171aa4ec2bcfe5b6edb65a202c3fba1a.png)
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/WyN6YOeG4UtFVFQxcC7rI7Awh9i5F6xj/30b976bbb90239e6d4b703a475782ebad7a7cc8724e08bb91398173f58095db9.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/e4436807-4a46-4c50-9c5c-52e34fdea3f7/video.mp4)
 
