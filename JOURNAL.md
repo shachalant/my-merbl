@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 6.92h | 6 |
+| Week 2 | Tier 1 | 7.42h | 6 |
 
 ## Contents
 
@@ -51,7 +51,7 @@ Finished up with the guide by creating a staircase track and funnel on Onshape. 
 
 ### 2026-10-15 – October 15: worked on the track assembly
 
-**0.83h**
+**1.33h**
 
 October 15: worked on the track assembly
 
