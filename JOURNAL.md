@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 6.12h | 6 |
+| Week 2 | Tier 1 | 6.92h | 6 |
 
 ## Contents
 
@@ -67,7 +67,7 @@ I started by expanding my track I had from the previous day, adding more loops a
 
 ### 2026-10-16 – October 16: finished merbl track!
 
-**1.63h**
+**2.43h**
 
 October 16: finished merbl track!
 
