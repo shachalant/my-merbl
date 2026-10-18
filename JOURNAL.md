@@ -63,6 +63,8 @@ I started by expanding my track I had from the previous day, adding more loops a
 
 **1.12h**
 
+Work session
+
 [Timelapse](https://lookout.hackclub.com/api/media/6682b454-2579-48a3-b8e7-217faeae8f3e/video.mp4)
 
 ### 2026-10-16 – October 16: finished merbl track!
