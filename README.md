@@ -11,6 +11,10 @@ This project contains CAD models of two 3D-printable marble run systems created 
 There are two designs: a standard track model and a modular system. 
 
 ---
+## 3D Printing
+The 3D print file for the merbl track is a .3mf file with manual supports added: [merbl track with supports.3mf](https://github.com/shachalant/my-merbl/blob/main/merbl%20track/merbl%20track%20with%20supports.3mf).
+
+The 3D print files for the modular track are separated by each part and can be found in the [CAD Print Files](https://github.com/shachalant/my-merbl/tree/main/modular%20track/CAD%20Print%20Files).
 
 ## Why I made this
 As part of Hack Club's week 2 project for Half Life, I decided to follow the merbl guide as well as try making a modular track on my own.
