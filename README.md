@@ -1,6 +1,8 @@
 # my-merbl
 
-<img width="449" height="475" alt="image" src="https://github.com/user-attachments/assets/53595f51-0ffa-466c-a74e-c2d58c6c2ea0" /><img width="403" height="549" alt="image" src="https://github.com/user-attachments/assets/c3612998-1ae8-4d6b-8d5f-f5d318717c8c" />
+<img width="449" height="475" alt="image" src="https://github.com/user-attachments/assets/53595f51-0ffa-466c-a74e-c2d58c6c2ea0" />
+<img width="698" height="589" alt="image" src="https://github.com/user-attachments/assets/a8b4e7a4-08ea-4d21-8e08-a8d50967252d" />
+
 
 
 
